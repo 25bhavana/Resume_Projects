@@ -1,4 +1,5 @@
 Data Science and Machine Learning Projects Repository
+
 Welcome to my repository! I'm Bhavana Soge, a passionate data science enthusiast currently pursuing my Master's in Bioinformatics from Savitribai Phule Pune University . This repository houses a collection of my projects, covering various aspects of data science, machine learning, natural language processing (NLP) and my coursework projects. Each project is contained in its respective folder, with a dedicated README file providing detailed information.
 
 About Me:
