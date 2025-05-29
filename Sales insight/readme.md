@@ -1,4 +1,4 @@
-In this project, I helped AtliQ Hardware, a big computer hardware company in 
+In this project, I helped Hardware shop, a big computer hardware company in 
 India, tackle a tricky issue. The sales director needed an easier way to 
 understand and track sales because the company was growing fast. Imagine 
 having lots of sales info but not knowing what it means – that's the problem i
